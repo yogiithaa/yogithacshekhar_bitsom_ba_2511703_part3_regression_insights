@@ -160,11 +160,4 @@ Management should prioritize:
 * External market conditions are not captured.
 * Results should be interpreted as directional evidence rather than proof of cause-and-effect relationships.
 
----
 
-## Screenshots Included
-
-* simple_regression_output.png
-* multiple_regression_output.png
-* residuals_preview.png
-* model_comparison_preview.png
